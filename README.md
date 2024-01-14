@@ -1,4 +1,4 @@
-. Version control is a system that allows you to track changes to files and manage different versions of a project over time. It is particularly useful in collaborative software development, but it can be applied to any context where tracking changes is important. The primary goals of version control are to:
+1. Version control is a system that allows you to track changes to files and manage different versions of a project over time. It is particularly useful in collaborative software development, but it can be applied to any context where tracking changes is important. The primary goals of version control are to:
 
 Track Changes: Version control systems keep track of all changes made to files in a project. This includes additions, deletions, and modifications. Each change is associated with a specific user, timestamp, and description.
 
