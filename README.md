@@ -92,4 +92,4 @@ Finish and Push: Once the rebase is finished, you can update the remote branch w
 
 In summary, git rebase is a tool for reorganizing your commits, placing them on top of the latest changes from another branch. It's useful for maintaining a clean and understandable project history.
 
-7. Git cherry-pick is a Git command that allows you to copy a specific commit from one branch and apply it onto another branch. It's like picking a commit from one branch and placing it on another branch.
+6. Git cherry-pick is a Git command that allows you to copy a specific commit from one branch and apply it onto another branch. It's like picking a commit from one branch and placing it on another branch.
