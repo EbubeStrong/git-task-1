@@ -68,9 +68,9 @@ In summary, Git is the version control system that manages project changes, whil
 - While git pull fetches changes from a remote repository like git fetch but also automatically merges those changes into your current working branking: This means that when git pull is ran, git fetches the latest changes from the remote repository(origin), similar to git fetch. But, however, git pull goes a step further by automatically merging those changes into ones current local branch.
 
 - Git fetch is useful for reviewing changes before deciding to merge. Example: git fetch origin: This means git fetch is a Git command that allows you to retrieve changes from a remote repository without automatically merging them into your current working branch. This separation of fetching and merging is beneficial for reviewing changes before deciding to merge.
-- 
+ 
 - While Git pull is essentially a combination of git fetch followed by git merge.
-  
+
 git fetch - This part of git pull retrieves changes from the remote repository without merging them into your local branch.
 It updates your remote tracking branches, such as origin/main or origin/feature-branch, to reflect the latest state of the remote repository.
 
